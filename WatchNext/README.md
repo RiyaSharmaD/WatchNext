@@ -1,19 +1,15 @@
 CP-087 WatchNext: Genre-Preference Content Recommendation Engine
 
-Team
-
+-Team
 RIYA SHARMA D (1AT24IS165), Python Track
 
-How to run
-
+-How to run
 1. Install Python.
 2. Open the project folder in VS Code.
 3. Run the following command:
+   python watchnext.py
 
-python watchnext.py
-
-Features that work
-
+-Features that work
 1. View the available movies and shows.
 2. Add new titles with genre and language details.
 3. Record watched titles and give ratings.
